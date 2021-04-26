@@ -1,0 +1,248 @@
+2021/04/24 21:58:02.754 [JDA RateLimit-Worker 1] DEBUG  Received response with following cf-rays: [644f803bbaaaf8af-NRT]
+2021/04/24 21:58:03.215 [JDA RateLimit-Worker 2] DEBUG  Received response with following cf-rays: [644f803d4e70f8af-NRT]
+2021/04/24 21:58:03.231 [main] INFO   Login Successful!
+2021/04/24 21:58:03.247 [main] DEBUG  Creating new worker handle for shard pool 0
+2021/04/24 21:58:03.247 [main] DEBUG  Running worker
+2021/04/24 21:58:03.247 [ConcurrentSessionController-Worker-0] DEBUG  Running connect node for shard Shard [0 / 1]
+2021/04/24 21:58:03.825 [JDA MainWS-ReadThread] INFO   Connected to WebSocket
+2021/04/24 21:58:03.825 [JDA MainWS-ReadThread] DEBUG  Connected with gateway intents: 11011011001101
+2021/04/24 21:58:03.825 [JDA MainWS-ReadThread] DEBUG  Sending Identify-packet...
+2021/04/24 21:58:03.871 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/24 21:58:04.122 [JDA MainWS-ReadThread] DEBUG  Setting incomplete count to 1
+2021/04/24 21:58:04.122 [JDA MainWS-ReadThread] DEBUG  Starting 75 second timeout for 1 guilds
+2021/04/24 21:58:04.184 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild with a null owner. GuildId: 773106063573778463 OwnerId: 757408620458672229
+2021/04/24 21:58:04.184 [JDA MainWS-ReadThread] INFO   Finished Loading!
+2021/04/24 21:58:04.184 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild 773106063573778463 firing cached events 0
+2021/04/24 21:58:32.060 [JDA RateLimit-Worker 1] DEBUG  Removed 2 expired buckets
+2021/04/24 22:07:16.090 [main] INFO   ===start===
+2021/04/24 22:07:17.262 [JDA RateLimit-Worker 1] DEBUG  Received response with following cf-rays: [644f8dc56ec70ab8-NRT]
+2021/04/24 22:07:17.731 [JDA RateLimit-Worker 2] DEBUG  Received response with following cf-rays: [644f8dc74c2d0ab8-NRT]
+2021/04/24 22:07:17.746 [main] INFO   Login Successful!
+2021/04/24 22:07:17.762 [main] DEBUG  Creating new worker handle for shard pool 0
+2021/04/24 22:07:17.762 [main] DEBUG  Running worker
+2021/04/24 22:07:17.762 [ConcurrentSessionController-Worker-0] DEBUG  Running connect node for shard Shard [0 / 1]
+2021/04/24 22:07:18.262 [JDA MainWS-WriteThread] INFO   Connected to WebSocket
+2021/04/24 22:07:18.262 [JDA MainWS-WriteThread] DEBUG  Connected with gateway intents: 11011011001101
+2021/04/24 22:07:18.262 [JDA MainWS-WriteThread] DEBUG  Sending Identify-packet...
+2021/04/24 22:07:18.262 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/24 22:07:18.528 [JDA MainWS-ReadThread] DEBUG  Setting incomplete count to 1
+2021/04/24 22:07:18.528 [JDA MainWS-ReadThread] DEBUG  Starting 75 second timeout for 1 guilds
+2021/04/24 22:07:18.575 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild with a null owner. GuildId: 773106063573778463 OwnerId: 757408620458672229
+2021/04/24 22:07:18.575 [JDA MainWS-ReadThread] INFO   Finished Loading!
+2021/04/24 22:07:18.575 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild 773106063573778463 firing cached events 0
+2021/04/24 22:07:46.825 [JDA RateLimit-Worker 1] DEBUG  Removed 2 expired buckets
+2021/04/24 22:08:06.778 [JDA RateLimit-Worker 1] DEBUG  Received response with following cf-rays: [644f8efae8de5f26-NRT]
+2021/04/24 22:08:07.356 [JDA RateLimit-Worker 2] DEBUG  Received response with following cf-rays: [644f8efd79705f26-NRT]
+2021/04/24 22:08:07.356 [main] INFO   Login Successful!
+2021/04/24 22:08:07.387 [main] DEBUG  Creating new worker handle for shard pool 0
+2021/04/24 22:08:07.387 [main] DEBUG  Running worker
+2021/04/24 22:08:07.387 [ConcurrentSessionController-Worker-0] DEBUG  Running connect node for shard Shard [0 / 1]
+2021/04/24 22:08:07.762 [JDA MainWS-ReadThread] INFO   Connected to WebSocket
+2021/04/24 22:08:07.762 [JDA MainWS-ReadThread] DEBUG  Connected with gateway intents: 11011011001101
+2021/04/24 22:08:07.762 [JDA MainWS-ReadThread] DEBUG  Sending Identify-packet...
+2021/04/24 22:08:07.809 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/24 22:08:08.090 [JDA MainWS-ReadThread] DEBUG  Setting incomplete count to 1
+2021/04/24 22:08:08.090 [JDA MainWS-ReadThread] DEBUG  Starting 75 second timeout for 1 guilds
+2021/04/24 22:08:08.137 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild with a null owner. GuildId: 773106063573778463 OwnerId: 757408620458672229
+2021/04/24 22:08:08.137 [JDA MainWS-ReadThread] INFO   Finished Loading!
+2021/04/24 22:08:08.137 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild 773106063573778463 firing cached events 0
+2021/04/24 22:08:36.356 [JDA RateLimit-Worker 1] DEBUG  Removed 2 expired buckets
+2021/04/24 22:31:40.684 [JDA RateLimit-Worker 1] DEBUG  Received response with following cf-rays: [644fb17fcf921d93-NRT]
+2021/04/24 22:31:41.137 [JDA RateLimit-Worker 2] DEBUG  Received response with following cf-rays: [644fb1814b431d93-NRT]
+2021/04/24 22:31:41.153 [main] INFO   Login Successful!
+2021/04/24 22:31:41.168 [main] DEBUG  Creating new worker handle for shard pool 0
+2021/04/24 22:31:41.168 [main] DEBUG  Running worker
+2021/04/24 22:31:41.168 [ConcurrentSessionController-Worker-0] DEBUG  Running connect node for shard Shard [0 / 1]
+2021/04/24 22:31:41.746 [JDA MainWS-ReadThread] INFO   Connected to WebSocket
+2021/04/24 22:31:41.746 [JDA MainWS-ReadThread] DEBUG  Connected with gateway intents: 11011011001101
+2021/04/24 22:31:41.746 [JDA MainWS-ReadThread] DEBUG  Sending Identify-packet...
+2021/04/24 22:31:41.793 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/24 22:31:42.059 [JDA MainWS-ReadThread] DEBUG  Setting incomplete count to 1
+2021/04/24 22:31:42.059 [JDA MainWS-ReadThread] DEBUG  Starting 75 second timeout for 1 guilds
+2021/04/24 22:31:42.106 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild with a null owner. GuildId: 773106063573778463 OwnerId: 757408620458672229
+2021/04/24 22:31:42.106 [JDA MainWS-ReadThread] INFO   Finished Loading!
+2021/04/24 22:31:42.106 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild 773106063573778463 firing cached events 0
+2021/04/24 22:32:09.935 [JDA RateLimit-Worker 1] DEBUG  Removed 2 expired buckets
+2021/04/24 22:33:15.762 [JDA RateLimit-Worker 1] DEBUG  Received response with following cf-rays: [644fb3d1f84d1da3-NRT]
+2021/04/24 22:33:16.246 [JDA RateLimit-Worker 2] DEBUG  Received response with following cf-rays: [644fb3d3feb01da3-NRT]
+2021/04/24 22:33:16.262 [main] INFO   Login Successful!
+2021/04/24 22:33:16.278 [main] DEBUG  Creating new worker handle for shard pool 0
+2021/04/24 22:33:16.278 [main] DEBUG  Running worker
+2021/04/24 22:33:16.278 [ConcurrentSessionController-Worker-0] DEBUG  Running connect node for shard Shard [0 / 1]
+2021/04/24 22:33:16.746 [JDA MainWS-WriteThread] INFO   Connected to WebSocket
+2021/04/24 22:33:16.746 [JDA MainWS-WriteThread] DEBUG  Connected with gateway intents: 11011011001101
+2021/04/24 22:33:16.746 [JDA MainWS-WriteThread] DEBUG  Sending Identify-packet...
+2021/04/24 22:33:16.746 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/24 22:33:17.028 [JDA MainWS-ReadThread] DEBUG  Setting incomplete count to 1
+2021/04/24 22:33:17.028 [JDA MainWS-ReadThread] DEBUG  Starting 75 second timeout for 1 guilds
+2021/04/24 22:33:17.059 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild with a null owner. GuildId: 773106063573778463 OwnerId: 757408620458672229
+2021/04/24 22:33:17.059 [JDA MainWS-ReadThread] INFO   Finished Loading!
+2021/04/24 22:33:17.059 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild 773106063573778463 firing cached events 0
+2021/04/24 22:33:45.324 [JDA RateLimit-Worker 1] DEBUG  Removed 2 expired buckets
+2021/04/24 22:35:12.746 [JDA RateLimit-Worker 1] DEBUG  Received response with following cf-rays: [644fb6ad1fcb5f15-NRT]
+2021/04/24 22:35:13.199 [JDA RateLimit-Worker 2] DEBUG  Received response with following cf-rays: [644fb6aeed815f15-NRT]
+2021/04/24 22:35:13.215 [main] INFO   Login Successful!
+2021/04/24 22:35:13.231 [main] DEBUG  Creating new worker handle for shard pool 0
+2021/04/24 22:35:13.231 [main] DEBUG  Running worker
+2021/04/24 22:35:13.231 [ConcurrentSessionController-Worker-0] DEBUG  Running connect node for shard Shard [0 / 1]
+2021/04/24 22:35:13.731 [JDA MainWS-ReadThread] INFO   Connected to WebSocket
+2021/04/24 22:35:13.731 [JDA MainWS-ReadThread] DEBUG  Connected with gateway intents: 11011011001101
+2021/04/24 22:35:13.731 [JDA MainWS-ReadThread] DEBUG  Sending Identify-packet...
+2021/04/24 22:35:13.762 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/24 22:35:14.231 [JDA MainWS-ReadThread] DEBUG  Setting incomplete count to 1
+2021/04/24 22:35:14.247 [JDA MainWS-ReadThread] DEBUG  Starting 75 second timeout for 1 guilds
+2021/04/24 22:35:14.278 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild with a null owner. GuildId: 773106063573778463 OwnerId: 757408620458672229
+2021/04/24 22:35:14.278 [JDA MainWS-ReadThread] INFO   Finished Loading!
+2021/04/24 22:35:14.278 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild 773106063573778463 firing cached events 0
+2021/04/24 22:35:42.122 [JDA RateLimit-Worker 1] DEBUG  Removed 2 expired buckets
+2021/04/24 23:22:05.341 [JDA MainWS-ReadThread] DEBUG  Got Reconnect request (OP 7). Closing connection now...
+2021/04/24 23:22:05.544 [JDA MainWS-ReadThread] DEBUG  Got disconnected from WebSocket (Code: 4900). Attempting to resume session
+2021/04/24 23:22:05.544 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect in 0s
+2021/04/24 23:22:05.544 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect!
+2021/04/24 23:22:06.231 [JDA MainWS-ReadThread] DEBUG  Connected to WebSocket
+2021/04/24 23:22:06.231 [JDA MainWS-ReadThread] DEBUG  Sending Resume-packet...
+2021/04/24 23:22:06.231 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/24 23:22:06.418 [JDA MainWS-ReadThread] DEBUG  Successfully resumed Session!
+2021/04/25 02:54:36.132 [JDA MainWS-ReadThread] DEBUG  Got Reconnect request (OP 7). Closing connection now...
+2021/04/25 02:54:36.303 [JDA MainWS-ReadThread] DEBUG  Got disconnected from WebSocket (Code: 4900). Attempting to resume session
+2021/04/25 02:54:36.303 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect in 0s
+2021/04/25 02:54:36.303 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect!
+2021/04/25 02:54:36.995 [JDA MainWS-ReadThread] DEBUG  Connected to WebSocket
+2021/04/25 02:54:36.995 [JDA MainWS-ReadThread] DEBUG  Sending Resume-packet...
+2021/04/25 02:54:36.995 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/25 02:54:37.167 [JDA MainWS-ReadThread] DEBUG  Successfully resumed Session!
+2021/04/25 06:12:05.855 [JDA MainWS-ReadThread] DEBUG  Got Reconnect request (OP 7). Closing connection now...
+2021/04/25 06:12:06.012 [JDA MainWS-ReadThread] DEBUG  Got disconnected from WebSocket (Code: 4900). Attempting to resume session
+2021/04/25 06:12:06.012 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect in 0s
+2021/04/25 06:12:06.012 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect!
+2021/04/25 06:12:06.684 [JDA MainWS-ReadThread] DEBUG  Connected to WebSocket
+2021/04/25 06:12:06.684 [JDA MainWS-ReadThread] DEBUG  Sending Resume-packet...
+2021/04/25 06:12:06.699 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/25 06:12:06.887 [JDA MainWS-ReadThread] DEBUG  Successfully resumed Session!
+2021/04/25 08:20:37.705 [JDA MainWS-ReadThread] DEBUG  Got Reconnect request (OP 7). Closing connection now...
+2021/04/25 08:20:37.861 [JDA MainWS-ReadThread] DEBUG  Got disconnected from WebSocket (Code: 4900). Attempting to resume session
+2021/04/25 08:20:37.861 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect in 0s
+2021/04/25 08:20:37.861 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect!
+2021/04/25 08:20:38.142 [JDA MainWS-WriteThread] DEBUG  Connected to WebSocket
+2021/04/25 08:20:38.142 [JDA MainWS-WriteThread] DEBUG  Sending Resume-packet...
+2021/04/25 08:20:38.142 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/25 08:20:38.314 [JDA MainWS-ReadThread] DEBUG  Successfully resumed Session!
+2021/04/25 12:04:33.891 [JDA MainWS-ReadThread] DEBUG  Got Reconnect request (OP 7). Closing connection now...
+2021/04/25 12:04:34.063 [JDA MainWS-ReadThread] DEBUG  Got disconnected from WebSocket (Code: 4900). Attempting to resume session
+2021/04/25 12:04:34.063 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect in 0s
+2021/04/25 12:04:34.063 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect!
+2021/04/25 12:04:34.407 [JDA MainWS-ReadThread] DEBUG  Connected to WebSocket
+2021/04/25 12:04:34.407 [JDA MainWS-ReadThread] DEBUG  Sending Resume-packet...
+2021/04/25 12:04:34.407 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/25 12:04:34.594 [JDA MainWS-ReadThread] DEBUG  Successfully resumed Session!
+2021/04/25 15:25:33.474 [JDA MainWS-ReadThread] DEBUG  Got Reconnect request (OP 7). Closing connection now...
+2021/04/25 15:25:33.661 [JDA MainWS-ReadThread] DEBUG  Got disconnected from WebSocket (Code: 4900). Attempting to resume session
+2021/04/25 15:25:33.661 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect in 0s
+2021/04/25 15:25:33.661 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect!
+2021/04/25 15:25:34.099 [JDA MainWS-ReadThread] DEBUG  Connected to WebSocket
+2021/04/25 15:25:34.099 [JDA MainWS-ReadThread] DEBUG  Sending Resume-packet...
+2021/04/25 15:25:34.099 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/25 15:25:34.271 [JDA MainWS-ReadThread] DEBUG  Successfully resumed Session!
+2021/04/25 17:49:29.653 [JDA MainWS-ReadThread] DEBUG  Got Reconnect request (OP 7). Closing connection now...
+2021/04/25 17:49:29.825 [JDA MainWS-ReadThread] DEBUG  Got disconnected from WebSocket (Code: 4900). Attempting to resume session
+2021/04/25 17:49:29.825 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect in 0s
+2021/04/25 17:49:29.825 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect!
+2021/04/25 17:49:30.309 [JDA MainWS-WriteThread] DEBUG  Connected to WebSocket
+2021/04/25 17:49:30.309 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/25 17:49:30.309 [JDA MainWS-WriteThread] DEBUG  Sending Resume-packet...
+2021/04/25 17:49:30.482 [JDA MainWS-ReadThread] DEBUG  Successfully resumed Session!
+2021/04/25 18:58:04.716 [JDA MainWS-ReadThread] DEBUG  Got Reconnect request (OP 7). Closing connection now...
+2021/04/25 18:58:04.883 [JDA MainWS-ReadThread] DEBUG  Got disconnected from WebSocket (Code: 4900). Attempting to resume session
+2021/04/25 18:58:04.883 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect in 0s
+2021/04/25 18:58:04.883 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect!
+2021/04/25 18:58:05.394 [JDA MainWS-ReadThread] DEBUG  Connected to WebSocket
+2021/04/25 18:58:05.394 [JDA MainWS-ReadThread] DEBUG  Sending Resume-packet...
+2021/04/25 18:58:05.395 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/25 18:58:05.574 [JDA MainWS-ReadThread] DEBUG  Successfully resumed Session!
+2021/04/25 19:22:10.928 [JDA MainWS-ReadThread] DEBUG  Got Reconnect request (OP 7). Closing connection now...
+2021/04/25 19:22:11.101 [JDA MainWS-ReadThread] DEBUG  Got disconnected from WebSocket (Code: 4900). Attempting to resume session
+2021/04/25 19:22:11.101 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect in 0s
+2021/04/25 19:22:11.101 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect!
+2021/04/25 19:22:11.795 [JDA MainWS-ReadThread] DEBUG  Connected to WebSocket
+2021/04/25 19:22:11.795 [JDA MainWS-ReadThread] DEBUG  Sending Resume-packet...
+2021/04/25 19:22:11.796 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/25 19:22:11.979 [JDA MainWS-ReadThread] DEBUG  Successfully resumed Session!
+2021/04/25 19:39:28.697 [JDA MainWS-ReadThread] DEBUG  Got Reconnect request (OP 7). Closing connection now...
+2021/04/25 19:39:28.862 [JDA MainWS-ReadThread] DEBUG  Got disconnected from WebSocket (Code: 4900). Attempting to resume session
+2021/04/25 19:39:28.862 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect in 0s
+2021/04/25 19:39:28.862 [JDA MainWS-ReadThread] DEBUG  Attempting to reconnect!
+2021/04/25 19:39:29.285 [JDA MainWS-ReadThread] DEBUG  Connected to WebSocket
+2021/04/25 19:39:29.285 [JDA MainWS-ReadThread] DEBUG  Sending Resume-packet...
+2021/04/25 19:39:29.285 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/25 19:39:29.457 [JDA MainWS-ReadThread] DEBUG  Successfully resumed Session!
+2021/04/25 20:15:55.387 [JDA RateLimit-Worker 1] DEBUG  Received response with following cf-rays: [645728009e681d83-NRT]
+2021/04/25 20:15:55.856 [JDA RateLimit-Worker 2] DEBUG  Received response with following cf-rays: [645728025b561d83-NRT]
+2021/04/25 20:15:55.856 [main] INFO   Login Successful!
+2021/04/25 20:15:55.887 [main] DEBUG  Creating new worker handle for shard pool 0
+2021/04/25 20:15:55.887 [main] DEBUG  Running worker
+2021/04/25 20:15:55.887 [ConcurrentSessionController-Worker-0] DEBUG  Running connect node for shard Shard [0 / 1]
+2021/04/25 20:15:56.372 [JDA MainWS-WriteThread] INFO   Connected to WebSocket
+2021/04/25 20:15:56.372 [JDA MainWS-WriteThread] DEBUG  Connected with gateway intents: 11011011001101
+2021/04/25 20:15:56.372 [JDA MainWS-WriteThread] DEBUG  Sending Identify-packet...
+2021/04/25 20:15:56.387 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/25 20:15:56.684 [JDA MainWS-ReadThread] DEBUG  Setting incomplete count to 1
+2021/04/25 20:15:56.684 [JDA MainWS-ReadThread] DEBUG  Starting 75 second timeout for 1 guilds
+2021/04/25 20:15:56.747 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild with a null owner. GuildId: 773106063573778463 OwnerId: 757408620458672229
+2021/04/25 20:15:56.747 [JDA MainWS-ReadThread] INFO   Finished Loading!
+2021/04/25 20:15:56.747 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild 773106063573778463 firing cached events 0
+2021/04/25 20:16:24.998 [JDA RateLimit-Worker 1] DEBUG  Removed 2 expired buckets
+2021/04/25 20:16:31.184 [JDA RateLimit-Worker 2] DEBUG  Caching bucket hash POST/channels/{channel_id}/messages -> a06de0de4a08126315431cc0c55ee3dc
+2021/04/25 20:16:31.184 [JDA RateLimit-Worker 2] DEBUG  Received response with following cf-rays: [645728dee8900b00-NRT]
+2021/04/25 20:16:31.450 [JDA RateLimit-Worker 1] DEBUG  Caching bucket hash PATCH/channels/{channel_id}/messages/{message_id} -> da101873bd9ceb21138638aa25f33cb1
+2021/04/25 20:16:31.450 [JDA RateLimit-Worker 1] DEBUG  Received response with following cf-rays: [645728e0ae020b00-NRT]
+2021/04/25 20:16:54.996 [JDA RateLimit-Worker 3] DEBUG  Removed 4 expired buckets
+2021/04/25 20:31:14.871 [JDA RateLimit-Worker 1] DEBUG  Received response with following cf-rays: [64573e735b260acc-NRT]
+2021/04/25 20:31:15.309 [JDA RateLimit-Worker 2] DEBUG  Received response with following cf-rays: [64573e74ffa40acc-NRT]
+2021/04/25 20:31:15.309 [main] INFO   Login Successful!
+2021/04/25 20:31:15.340 [main] DEBUG  Creating new worker handle for shard pool 0
+2021/04/25 20:31:15.340 [main] DEBUG  Running worker
+2021/04/25 20:31:15.340 [ConcurrentSessionController-Worker-0] DEBUG  Running connect node for shard Shard [0 / 1]
+2021/04/25 20:31:15.887 [JDA MainWS-ReadThread] INFO   Connected to WebSocket
+2021/04/25 20:31:15.887 [JDA MainWS-ReadThread] DEBUG  Connected with gateway intents: 11011011001101
+2021/04/25 20:31:15.887 [JDA MainWS-ReadThread] DEBUG  Sending Identify-packet...
+2021/04/25 20:31:15.918 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/25 20:31:16.200 [JDA MainWS-ReadThread] DEBUG  Setting incomplete count to 1
+2021/04/25 20:31:16.200 [JDA MainWS-ReadThread] DEBUG  Starting 75 second timeout for 1 guilds
+2021/04/25 20:31:16.262 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild with a null owner. GuildId: 773106063573778463 OwnerId: 757408620458672229
+2021/04/25 20:31:16.262 [JDA MainWS-ReadThread] INFO   Finished Loading!
+2021/04/25 20:31:16.262 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild 773106063573778463 firing cached events 0
+2021/04/25 20:31:44.216 [JDA RateLimit-Worker 1] DEBUG  Removed 2 expired buckets
+2021/04/25 20:32:41.309 [JDA RateLimit-Worker 1] DEBUG  Received response with following cf-rays: [6457408f7f375ef6-NRT]
+2021/04/25 20:32:41.793 [JDA RateLimit-Worker 2] DEBUG  Received response with following cf-rays: [645740917d5d5ef6-NRT]
+2021/04/25 20:32:41.809 [main] INFO   Login Successful!
+2021/04/25 20:32:41.824 [main] DEBUG  Creating new worker handle for shard pool 0
+2021/04/25 20:32:41.824 [main] DEBUG  Running worker
+2021/04/25 20:32:41.824 [ConcurrentSessionController-Worker-0] DEBUG  Running connect node for shard Shard [0 / 1]
+2021/04/25 20:32:42.121 [JDA MainWS-ReadThread] INFO   Connected to WebSocket
+2021/04/25 20:32:42.121 [JDA MainWS-ReadThread] DEBUG  Connected with gateway intents: 11011011001101
+2021/04/25 20:32:42.121 [JDA MainWS-ReadThread] DEBUG  Sending Identify-packet...
+2021/04/25 20:32:42.153 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/25 20:32:42.450 [JDA MainWS-ReadThread] DEBUG  Setting incomplete count to 1
+2021/04/25 20:32:42.450 [JDA MainWS-ReadThread] DEBUG  Starting 75 second timeout for 1 guilds
+2021/04/25 20:32:42.497 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild with a null owner. GuildId: 773106063573778463 OwnerId: 757408620458672229
+2021/04/25 20:32:42.497 [JDA MainWS-ReadThread] INFO   Finished Loading!
+2021/04/25 20:32:42.497 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild 773106063573778463 firing cached events 0
+2021/04/25 20:33:10.906 [JDA RateLimit-Worker 1] DEBUG  Removed 2 expired buckets
+2021/04/25 20:34:07.715 [JDA RateLimit-Worker 1] DEBUG  Received response with following cf-rays: [645742ab7f251d97-NRT]
+2021/04/25 20:34:08.215 [JDA RateLimit-Worker 2] DEBUG  Received response with following cf-rays: [645742ad7ced1d97-NRT]
+2021/04/25 20:34:08.215 [main] INFO   Login Successful!
+2021/04/25 20:34:08.246 [main] DEBUG  Creating new worker handle for shard pool 0
+2021/04/25 20:34:08.246 [main] DEBUG  Running worker
+2021/04/25 20:34:08.246 [ConcurrentSessionController-Worker-0] DEBUG  Running connect node for shard Shard [0 / 1]
+2021/04/25 20:34:08.528 [JDA MainWS-WriteThread] INFO   Connected to WebSocket
+2021/04/25 20:34:08.528 [JDA MainWS-WriteThread] DEBUG  Connected with gateway intents: 11011011001101
+2021/04/25 20:34:08.528 [JDA MainWS-WriteThread] DEBUG  Sending Identify-packet...
+2021/04/25 20:34:08.528 [JDA MainWS-ReadThread] DEBUG  Got HELLO packet (OP 10). Initializing keep-alive.
+2021/04/25 20:34:08.888 [JDA MainWS-ReadThread] DEBUG  Setting incomplete count to 1
+2021/04/25 20:34:08.888 [JDA MainWS-ReadThread] DEBUG  Starting 75 second timeout for 1 guilds
+2021/04/25 20:34:08.935 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild with a null owner. GuildId: 773106063573778463 OwnerId: 757408620458672229
+2021/04/25 20:34:08.950 [JDA MainWS-ReadThread] INFO   Finished Loading!
+2021/04/25 20:34:08.950 [JDA MainWS-ReadThread] DEBUG  Finished setup for guild 773106063573778463 firing cached events 0
+2021/04/25 20:34:14.418 [JDA RateLimit-Worker 1] DEBUG  Caching bucket hash POST/channels/{channel_id}/messages -> a06de0de4a08126315431cc0c55ee3dc
+2021/04/25 20:34:14.418 [JDA RateLimit-Worker 1] DEBUG  Received response with following cf-rays: [645742d468681d97-NRT]
+2021/04/25 20:34:37.309 [JDA RateLimit-Worker 3] DEBUG  Removed 4 expired buckets
